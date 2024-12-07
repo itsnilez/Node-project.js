@@ -1,0 +1,22 @@
+{
+    "name": "my-vercel-app",
+    "version": "1.0.0",
+    "description": "A sample Node.js project deployed on Vercel",
+    "main": "index.js", 
+    "scripts": {
+      "start": "node index.js", 
+      "dev": "vercel dev"     
+    },
+    "dependencies": {
+      "mongodb": "^5.9.0"       
+    },
+    "devDependencies": {},
+    "keywords": [
+      "nodejs",
+      "vercel",
+      "mongodb"
+    ],
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
